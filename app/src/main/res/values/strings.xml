@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">tempUnitChanger</string>
+
+    <string-array name="tempUnit">
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+
+    </string-array>
 </resources>
